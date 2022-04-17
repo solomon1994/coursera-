@@ -1,1 +1,12 @@
-
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    min-height: 160vh;
+}
+.nav-item{
+    color: black;
+    font-size: 1.4rem;
+    border-bottom: 2px solid;
+    font-weight: bold;
+}
